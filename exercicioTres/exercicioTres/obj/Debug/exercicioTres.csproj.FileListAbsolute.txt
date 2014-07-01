@@ -1,0 +1,5 @@
+C:\Users\dvpjean\Desktop\aprendizadoC#\Exercicios EvertonMorais Listas\exercicioTres\exercicioTres\bin\Debug\exercicioTres.exe.config
+C:\Users\dvpjean\Desktop\aprendizadoC#\Exercicios EvertonMorais Listas\exercicioTres\exercicioTres\bin\Debug\exercicioTres.exe
+C:\Users\dvpjean\Desktop\aprendizadoC#\Exercicios EvertonMorais Listas\exercicioTres\exercicioTres\bin\Debug\exercicioTres.pdb
+C:\Users\dvpjean\Desktop\aprendizadoC#\Exercicios EvertonMorais Listas\exercicioTres\exercicioTres\obj\Debug\exercicioTres.exe
+C:\Users\dvpjean\Desktop\aprendizadoC#\Exercicios EvertonMorais Listas\exercicioTres\exercicioTres\obj\Debug\exercicioTres.pdb

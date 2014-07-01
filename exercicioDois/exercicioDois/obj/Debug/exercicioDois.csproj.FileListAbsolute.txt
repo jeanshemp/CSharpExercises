@@ -1,0 +1,5 @@
+C:\Users\dvpjean\Desktop\aprendizadoC#\Exercicios EvertonMorais Listas\exercicioDois\exercicioDois\bin\Debug\exercicioDois.exe.config
+C:\Users\dvpjean\Desktop\aprendizadoC#\Exercicios EvertonMorais Listas\exercicioDois\exercicioDois\bin\Debug\exercicioDois.exe
+C:\Users\dvpjean\Desktop\aprendizadoC#\Exercicios EvertonMorais Listas\exercicioDois\exercicioDois\bin\Debug\exercicioDois.pdb
+C:\Users\dvpjean\Desktop\aprendizadoC#\Exercicios EvertonMorais Listas\exercicioDois\exercicioDois\obj\Debug\exercicioDois.exe
+C:\Users\dvpjean\Desktop\aprendizadoC#\Exercicios EvertonMorais Listas\exercicioDois\exercicioDois\obj\Debug\exercicioDois.pdb

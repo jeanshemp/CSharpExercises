@@ -1,0 +1,5 @@
+C:\Users\dvpjean\Desktop\aprendizadoC#\Exercicios EvertonMorais Listas\exercicioUm\exercicioUm\bin\Debug\exercicioUm.exe.config
+C:\Users\dvpjean\Desktop\aprendizadoC#\Exercicios EvertonMorais Listas\exercicioUm\exercicioUm\bin\Debug\exercicioUm.exe
+C:\Users\dvpjean\Desktop\aprendizadoC#\Exercicios EvertonMorais Listas\exercicioUm\exercicioUm\bin\Debug\exercicioUm.pdb
+C:\Users\dvpjean\Desktop\aprendizadoC#\Exercicios EvertonMorais Listas\exercicioUm\exercicioUm\obj\Debug\exercicioUm.exe
+C:\Users\dvpjean\Desktop\aprendizadoC#\Exercicios EvertonMorais Listas\exercicioUm\exercicioUm\obj\Debug\exercicioUm.pdb
