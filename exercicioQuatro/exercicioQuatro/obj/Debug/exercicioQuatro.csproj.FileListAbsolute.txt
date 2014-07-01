@@ -1,5 +1,0 @@
-C:\Users\dvpjean\Desktop\aprendizadoC#\Exercicios EvertonMorais Listas\exercicioQuatro\exercicioQuatro\bin\Debug\exercicioQuatro.exe.config
-C:\Users\dvpjean\Desktop\aprendizadoC#\Exercicios EvertonMorais Listas\exercicioQuatro\exercicioQuatro\bin\Debug\exercicioQuatro.exe
-C:\Users\dvpjean\Desktop\aprendizadoC#\Exercicios EvertonMorais Listas\exercicioQuatro\exercicioQuatro\bin\Debug\exercicioQuatro.pdb
-C:\Users\dvpjean\Desktop\aprendizadoC#\Exercicios EvertonMorais Listas\exercicioQuatro\exercicioQuatro\obj\Debug\exercicioQuatro.exe
-C:\Users\dvpjean\Desktop\aprendizadoC#\Exercicios EvertonMorais Listas\exercicioQuatro\exercicioQuatro\obj\Debug\exercicioQuatro.pdb

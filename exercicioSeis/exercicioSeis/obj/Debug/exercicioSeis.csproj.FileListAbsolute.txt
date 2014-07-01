@@ -1,6 +1,0 @@
-C:\Users\dvpjean\Desktop\aprendizadoC#\Exercicios EvertonMorais Listas\exercicioSeis\exercicioSeis\bin\Debug\exercicioSeis.exe.config
-C:\Users\dvpjean\Desktop\aprendizadoC#\Exercicios EvertonMorais Listas\exercicioSeis\exercicioSeis\bin\Debug\exercicioSeis.exe
-C:\Users\dvpjean\Desktop\aprendizadoC#\Exercicios EvertonMorais Listas\exercicioSeis\exercicioSeis\bin\Debug\exercicioSeis.pdb
-C:\Users\dvpjean\Desktop\aprendizadoC#\Exercicios EvertonMorais Listas\exercicioSeis\exercicioSeis\obj\Debug\exercicioSeis.csprojResolveAssemblyReference.cache
-C:\Users\dvpjean\Desktop\aprendizadoC#\Exercicios EvertonMorais Listas\exercicioSeis\exercicioSeis\obj\Debug\exercicioSeis.exe
-C:\Users\dvpjean\Desktop\aprendizadoC#\Exercicios EvertonMorais Listas\exercicioSeis\exercicioSeis\obj\Debug\exercicioSeis.pdb
